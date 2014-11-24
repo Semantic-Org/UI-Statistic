@@ -245,11 +245,11 @@
     Floated
 ---------------*/
 
-.ui.left.floated.statistic {
+.ui[class*="left floated"].statistic {
   float: left;
   margin: 0em 2em 1em 0em;
 }
-.ui.right.floated.statistic {
+.ui[class*="right floated"].statistic {
   float: right;
   margin: 0em 0em 1em 2em;
 }
