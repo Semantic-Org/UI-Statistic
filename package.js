@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-statistic',
   summary : 'Semantic UI - Statistic: Single component release',
-  version : '1.11.5',
+  version : '1.11.6',
   git     : 'git://github.com/Semantic-Org/UI-Statistic.git',
 });
 
