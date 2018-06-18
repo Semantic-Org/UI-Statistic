@@ -1,3 +1,7 @@
+### Version 2.3.2 - June 18, 2018
+
+- **Statistics** - Fix issue where grouped statistics would have excess bottom margin if they are `:last-child`
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Statistic** - statistic receives incorrect size when using `tiny` `large` etc inside a statistic group [#3116](https://github.com/Semantic-Org/Semantic-UI/issues/3116)
